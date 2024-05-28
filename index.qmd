@@ -1,0 +1,21 @@
+---
+title: "Learning Security Controls - Use-Cases"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+# Master Security Controls
+
+```{mermaid}
+flowchart LR
+  A[Learner] --> B(UC: Master Access Control)
+  A[Learner] --> C(UC: Master Authentication & Authorization Management)
+  A[Learner] --> D(UC: Master Content Filtering)
+  A[Learner] --> E(UC: Master Network Segmentation)
+  B --> F{Abstract UC: Master Security Controls}
+  C --> F{Abstract UC: Master Security Controls}
+  D --> F{Abstract UC: Master Security Controls}
+  E --> F{Abstract UC: Master Security Controls}
+```
