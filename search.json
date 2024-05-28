@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "access-control.html",
+    "href": "access-control.html",
+    "title": "Access Control",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Learning Security Controls - Use-Cases",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Security Controls\n\n\n\n\n\nflowchart LR\n  A[Learner] --&gt; B(UC: Master Access Control)\n  A[Learner] --&gt; C(UC: Master Authentication & Authorization Management)\n  A[Learner] --&gt; D(UC: Master Content Filtering)\n  A[Learner] --&gt; E(UC: Master Network Segmentation)\n  B --&gt; F{Abstract UC: Master Security Controls}\n  C --&gt; F{Abstract UC: Master Security Controls}\n  D --&gt; F{Abstract UC: Master Security Controls}\n  E --&gt; F{Abstract UC: Master Security Controls}"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
+    "title": "Table of contents",
+    "section": "",
+    "text": "Table of contents\n\nLearning Security Controls - Use Cases"
+  }
+]
